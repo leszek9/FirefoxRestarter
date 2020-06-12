@@ -1,0 +1,1 @@
+"C:\python38\python.exe" ".\ffrestarter.py"
