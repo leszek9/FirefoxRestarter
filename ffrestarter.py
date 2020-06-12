@@ -1,5 +1,5 @@
 # FirefoxRestarter 0.01
-# https://github.com/leszek9/FirefoxRestarter/
+# https://github.com/perdubaro/FirefoxRestarter/
 
 import subprocess
 import time
